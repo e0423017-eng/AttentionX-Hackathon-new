@@ -1,4 +1,4 @@
-#demo video link :
+## Demo Video
 https://drive.google.com/file/d/1_jSjSSdpn2FRdsFXpG372g1blG00CVhv/view?usp=drive_link
 
 
@@ -10,8 +10,6 @@ Turn long-form videos into short, viral-ready clips with AI-powered peak detecti
 ## Live Demo
 [Open the app here](https://automated-content-re-3clx.bolt.host/)
 
-## Demo Video
-[Watch the demo video](https://drive.google.com/YOUR_VIDEO_LINK)
 
 ## What it does
 AttentionX helps mentors, educators, and creators convert long videos into snackable short clips for Reels, Shorts, and TikTok.
